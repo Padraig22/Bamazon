@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "test for new application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Padraig22/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Padraig22/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Padraig22/Bamazon#readme",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "express": "^4.17.1",
+    "inquirer": "^7.0.4",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.2"
+  }
+}
